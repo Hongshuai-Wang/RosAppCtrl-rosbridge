@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#000074"
+    android:orientation="vertical"
+    tools:context=".ui.PathSelect">
+
+    <RelativeLayout
+        android:id="@+id/mr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal"
+        android:background="#3F51B5">
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="160dp"
+            android:layout_height="25dp"
+            android:layout_weight="1"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="0dp"
+
+            android:text="TextView"
+            android:textSize="20dp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="160dp"
+            android:layout_height="25dp"
+            android:layout_alignStart="@+id/textView14"
+            android:layout_alignTop="@+id/line"
+
+            android:layout_weight="1"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="24dp"
+
+            android:text="TextView"
+            android:textSize="20dp" />
+
+
+        <LinearLayout
+            android:id="@+id/line"
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+
+            android:layout_marginStart="1dp"
+
+
+            android:layout_marginEnd="0dp"
+            android:layout_marginBottom="49dp"
+            android:layout_toStartOf="@+id/button"
+            android:layout_toEndOf="@+id/textView14"
+            android:layout_toRightOf="@id/textView14"
+            android:orientation="horizontal" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="340dp"
+            android:layout_marginTop="1dp"
+            android:layout_marginEnd="3dp"
+            android:text="下车"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp"
+            />
+
+
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/drawArea"
+        android:layout_width="1080px"
+        android:layout_height="2000px"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="0dp"
+        android:background="@drawable/map"
+        android:orientation="vertical"></LinearLayout>
+
+
+</RelativeLayout>

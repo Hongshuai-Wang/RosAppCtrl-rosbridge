@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/butterknife-7.0.1.jar:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/butterknife-7.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

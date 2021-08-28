@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_1915d3c1025f8fd52371f0c6af9fe5005396153c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/json-simple-1.1_25964115baff4fda3fc25160c94f782ccbee9278.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/exploded-aar/com.github.bmelnychuk/atv/1.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88a61540b959acefad94af2e31989104091b624a">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/com.github.bmelnychuk-atv-1.2.9_bba746aab6809407e6c24f58fa986e324c6dfe2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/exploded-aar/androidx.constraintlayout/constraintlayout/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83c6da4971cadfcceffba367a34f00683afab0ad">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/androidx.constraintlayout-constraintlayout-1.1.3_b01e08539414a34bbd7cee3db06b4af8757cb44e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.3_d161f00e0b351e9ae8333a6077c2342070cc1fbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/libs/java_websocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35f488c2a8cb28569c1bbf69abcb1b8b04db8e01">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/java_websocket_0b185db5c6a87e90b9c87955c7c6b1dd9a487921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_0e022b9268ff871e5f4516defc89c6a242daab36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/eventbus.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a500bb7417c5f5010706ade3e8e06fa75acb61f8">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/eventbus_f07694e19f03e083860a8ec8f75b4fd037a8055b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/libs/json-simple-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/json-simple-1.1_999abe7149c7c4ed6c2d02d85ca07b8af92484e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_0452ce6aa3f52ce0362db229727734f1b0b8cc0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_050b1369b7f6c3ba571290476e6e51654958d793.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/libs/butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1_97ad8daafc4f76df14e905591d420440467360e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/libs/eventbus.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a500bb7417c5f5010706ade3e8e06fa75acb61f8">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/eventbus_b06cfe069a93eb1ddb6b2197798fae87cbf64d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/21.0.3/4b74cefe1f0c1b819e7260c8627a14674e37fd35/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3_6dff7340548bb7723c31163a6a7c372a5511349b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_3f0f35c4a81ccd9a3bc16b09a4933a23d9872b88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/exploded-aar/com.github.bmelnychuk/atv/1.2.9/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88a61540b959acefad94af2e31989104091b624a">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/com.github.bmelnychuk-atv-1.2.9_cc35c46398fb753e09f04997a49975568f351627.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/exploded-aar/androidx.constraintlayout/constraintlayout/1.1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="83c6da4971cadfcceffba367a34f00683afab0ad">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/androidx.constraintlayout-constraintlayout-1.1.3_df52ac006e2442a15e58126448299128b6ea40c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_cbf8705113c41abc454d076e53b1bb979c67ec27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-solver/1.1.3/54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e/constraintlayout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54abe9ffb22cc9019b0b6fcc10f185cc4e67b34e">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv12.0/app/build/intermediates/pre-dexed/debug/constraintlayout-solver-1.1.3_93eef44de021dcf035e70d05be03740b50850464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/java_websocket.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35f488c2a8cb28569c1bbf69abcb1b8b04db8e01">
+        <dex dex="/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/build/intermediates/pre-dexed/debug/java_websocket_af6175a9061200f5857d1b11aa8ee488b9dba152.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/home/master/Documents/AndroidStudioProjects/RosClientv13.1/app/libs/eventbus.jar:unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/eventbus.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
